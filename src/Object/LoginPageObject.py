@@ -3,7 +3,7 @@ from src.Object.WelcomePageObject import WelcomePageObeject
 from src.Object.StartPageObject import StartPageObeject
 from src.Object.LocatorObject import LoginLocator
 
-from tests import conftest
+from src.Util import conftest
 
 import unittest
 
